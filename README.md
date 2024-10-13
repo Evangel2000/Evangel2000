@@ -1,5 +1,11 @@
 ## Hi there 👋
+Welcome to my personal GitHub! This is where I explore, experiment, and work on various projects and ideas. Many of the repositories here are **works in progress**, so feel free to dive in and see what I'm currently playing around with!
 
+## 🔭 What I'm Working On:
+- 🚀 Exploring new technologies, frameworks, and tools.
+- 💻 Building personal projects to sharpen my skills.
+- 🛠️ Experimenting with different coding patterns and architectures.
+  
 <!--
 **Evangel2000/Evangel2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
